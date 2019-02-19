@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"ARFF Syntax Highlighting",
+		"ChucK Syntax",
+		"CMake",
+		"DoxyDoxygen",
+		"EasyClangComplete",
+		"Package Control",
+		"Solarized Color Scheme"
+	]
+}
