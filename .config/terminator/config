@@ -15,7 +15,6 @@
       parent = ""
       position = 65:24
       size = 1855, 1056
-      title = trekirk@Tardis: ~/dotfiles
       type = Window
     [[[child1]]]
       order = 0
